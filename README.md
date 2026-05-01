@@ -500,8 +500,7 @@ pytest tests/ -v
 - **Interactive CLI**: Explore each component through a Rich-powered terminal interface
 - **Modular Design**: Each component is self-contained and reusable
 
-```
-$ python main.py
+
                                          ╭────────────────────────── Welcome ───────────────────────────╮
                                          │ Transformer Exploration Toolkit                              │
                                          │ An educational implementation of 'Attention Is All You Need' │
@@ -7644,7 +7643,6 @@ Select an option [1/2/3/4/5]: 5
 Goodbye!
 (venv)
 
-```
 
 
 ## 📖 Reference
