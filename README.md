@@ -1,4 +1,4 @@
-# 🤖 Transformer Architecture Study
+# 🤖 Transformer Architecture 
 
 A clean, modular, and highly documented implementation of the original Transformer architecture from the paper **"Attention Is All You Need"** (Vaswani et al., 2017).
 
